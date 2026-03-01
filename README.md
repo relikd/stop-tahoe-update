@@ -8,6 +8,7 @@ _A community-led effort to block unwanted macOS upgrades (e.g. Sequoia → Tahoe
 [![Build & Validate](https://github.com/travisvn/stop-tahoe-update/actions/workflows/validate.yml/badge.svg)](https://github.com/travisvn/stop-tahoe-update/actions)
 
 > Safe • Transparent • Reversible
+> 
 > Everything here is inspectable and easy to undo.
 
 ---
