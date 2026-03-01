@@ -173,7 +173,6 @@ After that, the OS may begin prompting again.
 - 🧱 **CodeOwners** required for `profiles/`, `scripts/`, and `plugins/`
 - 🧪 **CI validation:** XML linting, ShellCheck, SHA-256 hash checks
 - 🛡️ **No root operations** unless clearly documented & user-initiated
-- 🔒 **Security disclosure policy:** see [SECURITY.md](./.github/SECURITY.md)
 
 ---
 
